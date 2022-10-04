@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **romashmlc@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm currently work at Artifitial Intellegence project 🤖</h3>
 <p align="left">
 </p>
 
