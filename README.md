@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="auto">
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="auto">
 <h1 align="center">👋 Hello World! I'm Romash Malcev</h1>
 <h3 align="center">I'm developer backend and frontend 🎯</h3>
 
