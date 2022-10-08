@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="auto">
+<img src="https://media.giphy.com/media/UDXM9DS5SBXCr2gsUi/giphy.gif" width="100%" height="auto">
 <h1 align="center">👋 Hello World! I'm Romash Malcev</h1>
 <h3 align="center">I'm developer backend and frontend 🎯</h3>
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **romashmlc@gmail.com**
 
-<h3 align="left">I'm currently work at Artifitial Intellegence project 🤖</h3>
+<h3 align="left">I'm currently work at PostgreSQL</h3>
 <h1 align="left"> My projects 🎯 </h1>
 <h2 align="left"> 🪴 Structure database </h2>
 <p> Low code system, which can provide answer on the question " How can I optimizes my business process to reach new goals and amount of money ". I worked with Elma ( low code system ), and to speed up the process of signing the papers that ELMA does. I decided to automate the project using python and flask. In the final, we receive structure database for comfortable use </p>
