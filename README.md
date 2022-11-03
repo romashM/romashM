@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **romashmlc@gmail.com**
 
-<h3 align="left">I'm currently working in chess & ai in python</h3>
 <h1 align="left"> My projects 🎯 </h1>
 <h2 align="left"> 🪴 Structure database </h2>
 <p> Low code system, which can provide answer on the question " How can I optimizes my business process to reach new goals and amount of money ". I worked with Elma ( low code system ), and to speed up the process of signing the papers that ELMA does. I decided to automate the project using python and flask. In the final, we receive structure database for comfortable use. Likewise, I used postgreSQL & mySQL to create workers database. </p>
