@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello World! I'm Romash Malcev</h1>
 <h3 align="center">I'm developer backend and frontend 🎯</h3>
 
-- 🌱 I’m currently learning **python flask & react js**
+- 🌱 I’m currently learning **FastAPI ~> sign up & sign in system**
 
 - 💬 Ask me about **react, flask, api**
 
